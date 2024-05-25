@@ -1,1 +1,6 @@
 print("pain")
+print("pain")
+print("pain")
+print("pain")
+print("pain")
+print("pain")
