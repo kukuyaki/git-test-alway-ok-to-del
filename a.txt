@@ -1,0 +1,13 @@
+git status
+git log --oneline
+git diff bcd61bc -- c.txt
+git add .
+git commit -m "blah" #-m後面是備註
+git check out #關於分支
+git push
+git push origin branch2 #再分支要push的話要這樣寫
+git pull
+
+git remote add origin https://github.com/kukuyaki/hahaha.git ###git 遠端 新增 遠端儲存庫名稱 遠端儲存庫網址
+git branch -M main                                           ###git 分支管理 重新命名 新名稱
+git push -u origin main                                      ###git 推送 建立關聯 遠端名稱 本地名稱
